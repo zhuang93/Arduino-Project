@@ -2,4 +2,4 @@ This part will introduce some interesting work based on Arduino. All these work 
 
 Here is the content (Keep on updating).
 
-1. Discrete Wavelet Transform
+1. [Discrete Wavelet Transform](https://github.com/zhuang93/Arduino-Project/tree/master/Discrete-Wavelet-Transform)
