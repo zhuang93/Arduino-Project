@@ -8,4 +8,4 @@ Fig. 1 One-level DWT
 
 The expressions are shown below.
 
-![Image of one-level transform expressions]
+![Image of one-level transform expressions](https://github.com/zhuang93/Arduino-Project/blob/master/Discrete-Wavelet-Transform/figures/dwt-expression.png)
