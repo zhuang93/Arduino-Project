@@ -8,4 +8,4 @@ Fig. 1 One-level DWT
 
 The expressions are shown below.
 
-![Image of one-level transform expressions](/Users/zhuangyf/Downloads/dwt-expression.png⁩)
+![Image of one-level transform expressions]
