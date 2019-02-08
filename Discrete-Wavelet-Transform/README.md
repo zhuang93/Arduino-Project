@@ -2,4 +2,10 @@ This project mainly focuses on applying Discrete Wavelet Transform (DWT) on Ardu
 
 Firstly, the one-level of the transform framework is shown in the Figure 1.
 
-![Image of one-level transform](https://upload.wikimedia.org/wikipedia/commons/4/45/Wavelets_-_DWT.png)
+![Image of one-level transform framwork](https://upload.wikimedia.org/wikipedia/commons/4/45/Wavelets_-_DWT.png)
+
+Fig. 1 One-level DWT
+
+The expressions are shown below.
+
+![Image of one-level transform expressions](/Users/zhuangyf/Downloads/dwt-expression.png⁩)
